@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfa5a248453bc6bb0677ae82058fbbeac63d3dc91",
+  "SCAN_LINK": "https://polygonscan.com/address/0xfa5a248453bc6bb0677ae82058fbbeac63d3dc91",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Sweet Robots Club",
+  "SYMBOL": "SRC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 700000000000000000,
+  "DISPLAY_COST": 0.7,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sweetrobotsclub",
+  "SHOW_BACKGROUND": true
+}
